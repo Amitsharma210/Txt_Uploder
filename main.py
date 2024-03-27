@@ -24,7 +24,7 @@ import os
 
 bot = Client("bot",
              bot_token= "6999002640:AAG7wPRUmjERvZlDL9iLXu2jsDchFJPOTRg",
-             api_id= "22164996",
+             api_id= "22164996"
              api_hash= "035f2448fefaf28659b05af05142b45b")
 
 
